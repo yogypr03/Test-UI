@@ -1,5 +1,6 @@
 ﻿Public Class frmMain
     Private tet As Integer = 5
+    Private teuut As Integer = 5
 
     Private Sub btnDashboard_Click(sender As Object, e As EventArgs) Handles btnDashboard.Click
         pnlBlue.Height = btnDashboard.Height
